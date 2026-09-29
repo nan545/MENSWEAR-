@@ -1,0 +1,6 @@
+{
+  "name": "Boulevard Menswear - Timeless Sartorial Elegance",
+  "description": "Boulevard Menswear - Classic elegance, British attitude, and Italian craftsmanship. Tailored suits, safari suits, European footwear, and fine accessories for the modern gentleman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
